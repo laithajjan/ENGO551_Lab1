@@ -39,3 +39,13 @@ ________________________________________________________________________________
 
 book.html
 you can see title, author, date, and isbn
+
+_______________________________________________________________________________________________
+7. Application.py
+
+Connected to PostgresSQL database, created the routes for every page.
+
+_______________________________________________________________________________________________
+8. import.py
+
+created the books and users table in postgressql
